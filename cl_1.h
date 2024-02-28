@@ -1,3 +1,4 @@
+//Коммит 1. Заголовочный файл объекта 1.
 #pragma once
 #ifndef __CL_1__H
 #define __CL_1__H
